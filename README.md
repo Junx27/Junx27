@@ -1,35 +1,22 @@
-# 👋 Hi, I'm [Nama Anda]!
+<h1 align="center">Hi 👋, I'm Tri</h1>
+<h3 align="center">A passionate web developer from Indonesia</h3>
 
-Saya seorang [posisi atau profesi Anda, misalnya: "pengembang perangkat lunak", "desainer UI/UX", dll.] dengan minat di bidang [bidang minat, seperti "teknologi web", "data science", dll.].
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=junx27&label=Profile%20views&color=0e75b6&style=flat" alt="junx27" /> </p>
 
-## 🌍 Tentang Saya
+- 🌱 I’m currently learning **Go, React, Laravel**
 
-- 💼 Saat ini bekerja di [nama perusahaan atau proyek]
-- 🌱 Sedang belajar [teknologi atau keterampilan baru]
-- 🤔 Ingin belajar lebih banyak tentang [topik atau teknologi yang ingin dipelajari]
-- 💬 Hubungi saya di [email atau media sosial]
+- 📫 How to reach me **trisaptonoitsumo@gmail.com**
 
-## ⚙️ Teknologi dan Keterampilan
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/trisaptono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trisaptono" height="30" width="40" /></a>
+</p>
 
-- **Bahasa Pemrograman**: Go, JavaScript, PHP
-- **Framework**: React, Node.js, Laravel
-- **Tools**: Git, Docker, VSCode
-- **Database**: MySQL, MongoDB
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-## 📈 Statistik GitHub
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junx27&show_icons=true&locale=en&layout=compact" alt="junx27" /></p>
 
-![Statistik](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junx27&show_icons=true&locale=en" alt="junx27" /></p>
 
-## 🌟 Proyek Teratas
-
-- [Proyek 1](link-repo): Deskripsi singkat tentang proyek.
-- [Proyek 2](link-repo): Deskripsi singkat tentang proyek.
-- [Proyek 3](link-repo): Deskripsi singkat tentang proyek.
-
-## 💬 Mari Terhubung
-
-- [LinkedIn](https://linkedin.com/in/username)
-- [Twitter](https://twitter.com/username)
-- [Email](mailto:email@example.com)
-
-Terima kasih telah mengunjungi profil saya! 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junx27&" alt="junx27" /></p>
