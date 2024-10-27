@@ -62,6 +62,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> 
   </a> 
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junx27&show_icons=true&locale=en&layout=compact" alt="junx27" />
-  <br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junx27&" alt="junx27" /></p>
+<br><br><br>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junx27&" alt="junx27" /><br><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=junx27&show_icons=true&locale=en&layout=compact" alt="junx27" />
+</p>
